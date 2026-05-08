@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="AStarPathfinding/AStarPathfinding.vcxproj" />
+  <Project Path="AStarPathfinding/AStarPathfinding.vcxproj" Id="2ec3c516-3656-4ebf-a9e7-ab21d60b8bf6" />
 </Solution>
